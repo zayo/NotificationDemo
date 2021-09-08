@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed massa nec diam sagittis elementum. Aliquam pretium cursus est non aliquet. Donec vel fermentum leo. Aliquam vehicula aliquam dolor, nec dapibus metus. Vestibulum viverra rhoncus enim nec semper. Nam blandit est sit amet nisi congue, nec blandit purus accumsan. Phasellus in vulputate ex, sit amet egestas dolor. Suspendisse hendrerit metus sed commodo dictum. Nam nec ligula ac urna dapibus molestie.
+
+Duis in lacus sagittis, feugiat libero at, mollis erat. Suspendisse et sem risus. Sed vel nisl mattis, varius ipsum et, maximus eros. Aenean elit enim, tincidunt a nunc quis, ornare tincidunt ex. In mollis, risus lacinia consectetur semper, nunc enim bibendum risus, vel consequat neque augue eu metus. Integer faucibus vehicula massa, vitae lobortis quam pharetra eget. Vivamus id nulla at dui convallis dictum a sodales elit.
+
+Donec imperdiet, ante eget gravida fermentum, purus metus sodales dui, eu tincidunt odio risus eu tortor. Ut at diam scelerisque, porta dui eget, iaculis massa. Proin non pretium purus. Integer consequat condimentum eros, sed sagittis ligula venenatis id. Sed tristique, ligula eu condimentum facilisis, dui erat lobortis lorem, vel semper magna elit sed massa. Nulla id enim at ante rutrum egestas ut ac tellus. Nullam ipsum nisi, porttitor sit amet arcu non, facilisis ultrices eros. Fusce nec enim convallis, consectetur magna ut, hendrerit augue. Pellentesque bibendum nisl et nisl laoreet, nec egestas mauris imperdiet. Sed eu placerat nisi. Etiam vitae orci porta, sollicitudin arcu vel, posuere nisi.
+
+Pellentesque tempor condimentum quam at bibendum. Suspendisse a semper nulla. Sed nisl magna, eleifend posuere gravida ac, finibus non magna. Vestibulum vitae nisl mollis, ullamcorper tortor nec, ultrices odio. Sed non urna sit amet elit pellentesque laoreet sit amet malesuada nunc. Pellentesque mollis ipsum vitae nisl malesuada suscipit. Praesent auctor gravida lacus, quis semper magna varius eu. Nam varius, lorem volutpat finibus porta, ipsum lectus finibus erat, non dignissim tortor dolor eu libero.
+
+Pellentesque in eleifend arcu, porta efficitur sapien. Sed accumsan feugiat tellus, nec mollis metus ultrices id. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent eu ullamcorper ligula, in efficitur lacus. Nam congue ultrices erat sit amet volutpat. Vestibulum tincidunt aliquam sem eget tincidunt. Mauris ut scelerisque neque. Donec dui nisi, ultricies semper libero quis, convallis feugiat tortor. Nunc ornare tellus nisl, id tincidunt lorem sollicitudin et. Cras pretium, neque sed luctus venenatis, massa eros commodo elit, at iaculis tortor nisi ultrices magna. Duis nec condimentum arcu. Mauris mollis commodo commodo. Donec fringilla lacus mauris, eu gravida ante consectetur posuere. Sed interdum, nisi nec vulputate laoreet, urna mauris pulvinar urna, eu aliquam diam libero sed purus."
+        style="@style/TextAppearance.Compat.Notification.Title"
+        />
+
+</FrameLayout>
